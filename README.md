@@ -1,4 +1,4 @@
-### Hi there 👋
+### Paulo Careli 
 
 <!--
 **PauloCareli/PauloCareli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Paulo Careli, Electric Engineering Student aiming to become a good Software Engineer.
+
+
+[https://camo.githubusercontent.com/413f34dc3e96a55e675b45e47eeba207ba833ddb0a7758b2b8de9260da27301b/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f313338332f313338333236322e737667](https://www.linkedin.com/in/paulo-careli-ab472616a/)
