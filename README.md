@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I'm Paulo Careli, Electric Engineering Student aiming to become a good Software Engineer.
 
-
+[![linkein_icon](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/paulo-careli-ab472616a/)
 [Linkedin](https://www.linkedin.com/in/paulo-careli-ab472616a/)
