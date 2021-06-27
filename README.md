@@ -5,7 +5,7 @@
 <img align="right" width="200" height="200" src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" alt="animated">
 
 [![linkein_icon](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/paulo-careli-ab472616a/)
-[![linkein_icon](https://img.icons8.com/fluent/48/000000/gmail.png)](paulo.careli@engenharia.ufjf.br)
+[![linkein_icon](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:paulo.careli@engenharia.ufjf.br)
 
 I'm Paulo Careli, Electric Engineering Student aiming to become a good Software Engineer.
 
