@@ -10,7 +10,7 @@
 I'm Paulo Careli, Electric Engineering Student aiming to become a good Software Engineer.
 
 ### About me:
-
+- 🔭 I’m currently working as a Software Engineer Trainee at LEVTY.
 - 🔭 I’m currently working on my final paper.
 - 🌱 I’m currently learning web development.
 - 😄 I’m looking to improve my abilities as a developer.
