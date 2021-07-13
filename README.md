@@ -1,4 +1,4 @@
-## Hi there, I'm Paulo! :handshake:
+## Hi there! :handshake:
 
 
 
