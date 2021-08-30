@@ -7,7 +7,7 @@
 [![linkein_icon](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/paulo-careli-ab472616a/)
 [![linkein_icon](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:paulo.careli@engenharia.ufjf.br)
 
-I'm Paulo Careli, Electric Engineering Student aiming to become a good Software Engineer.
+I'm Paulo Careli, an Electric Engineering Student who loves technology.
 
 ### About me:
 - 🔭 I’m currently working as a Software Engineer Trainee at LEVTY.
