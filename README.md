@@ -11,8 +11,7 @@ I'm Paulo Careli, an Electric Engineering Student who loves technology.
 
 ### About me:
 - 🔭 I’m currently working as a Software Engineer Trainee at LEVTY.
-- 🔭 I’m currently working on my final paper.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently studying web development.
 - 😄 I’m looking to improve my abilities as a developer.
 - 💬 Ask me about anything, I'm happy to help.
 <br clear="right"/>
