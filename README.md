@@ -10,7 +10,7 @@
 I'm Paulo Careli, an Engineer who loves technology.
 
 ### About me:
-- 🔭 I’m currently working as a Software Engineer Trainee at LEVTY.
+- 🔭 I’m currently working as a Software Engineer at LEVTY.
 - 🌱 I’m currently learning everything, with a good focus on web development.
 - 😄 I’m looking to improve my abilities as a developer.
 - 💬 Ask me about anything, I'm happy to help.
