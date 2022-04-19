@@ -4,7 +4,7 @@
 
 <img align="right" width="200" height="200" src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" alt="animated">
 
-[![linkein_icon](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)](https://www.linkedin.com/in/paulo-careli-ab472616a/)
+[![linkein_icon](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/paulo-careli-ab472616a/)
 [![linkein_icon](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:paulo.careli@engenharia.ufjf.br)
 
 I'm Paulo Careli, an Engineer who loves technology.
