@@ -10,7 +10,7 @@
 I'm Paulo Careli, an Engineer who loves technology.
 
 ### About me:
-- 🌱 I’m currently learning everything, with a good focus on web development.
+- 🌱 I’m currently learning everything, with a good focus on web development and LLM/ML.
 - 😄 I’m looking to improve my abilities as an Engineer.
 - 💬 Ask me about anything, I'm happy to help.
 <br clear="right"/>
